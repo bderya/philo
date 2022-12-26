@@ -97,7 +97,7 @@ void		checker(t_data *c);
 void		check_death(t_philo *p);
 
 /* 
-	philoacts.c 
+	philo_bev.c 
 */
 void		philo_eat(t_philo *ph);
 void		philo_think(t_philo *ph);
